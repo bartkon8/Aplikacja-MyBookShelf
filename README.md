@@ -24,9 +24,9 @@ Backend korzysta z bazy PostgreSQL.
 
 2. Uruchom serwer PostgreSQL.  
 
-3. Utwórz bazę danych, np.:  
+3. Utwórz bazę danych o nazwie bookshelf_db, np.:  
    ```bash
-   createdb bookshelfdb
+   createdb bookshelf_db
 ---
 
 ## Struktura projektu
